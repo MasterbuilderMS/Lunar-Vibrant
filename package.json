@@ -3,7 +3,7 @@
   "displayName": "Lunar Vibrant",
   "description": "A vibrant Python color theme",
   "publisher": "MichaelSavage",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.98.0"
   },
